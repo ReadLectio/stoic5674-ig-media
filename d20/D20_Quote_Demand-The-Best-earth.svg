@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350">
+<defs><style>@font-face{font-family:Lora;src:url(file:///usr/share/fonts/truetype/sand-box/google/Lora/Lora-VariableFont_wght.ttf);}</style></defs>
+<rect width="1080" height="1350" fill="#2A3024"/>
+<rect x="60" y="60" width="960" height="1230" fill="none" stroke="#A89070" stroke-width="3"/>
+<line x1="440" y1="320" x2="640" y2="320" stroke="#A89070" stroke-width="2"/>
+<text x="540" y="470" text-anchor="middle" font-family="Lora" font-size="56" fill="#EDE6D3">How long will you</text><text x="540" y="558" text-anchor="middle" font-family="Lora" font-size="56" fill="#EDE6D3">wait before you</text><text x="540" y="646" text-anchor="middle" font-family="Lora" font-size="56" fill="#EDE6D3">ask the best</text><text x="540" y="734" text-anchor="middle" font-family="Lora" font-size="56" fill="#EDE6D3">of yourself?</text>
+<line x1="440" y1="842" x2="640" y2="842" stroke="#A89070" stroke-width="2"/>
+<text x="540" y="922" text-anchor="middle" font-family="Lora" font-style="italic" font-size="34" fill="#C9B98F">Epictetus · Ephesians 5:15</text>
+<text x="540" y="1210" text-anchor="middle" font-family="Lora" font-size="30" fill="#8C8C7A">@thestoic5674</text>
+</svg>
