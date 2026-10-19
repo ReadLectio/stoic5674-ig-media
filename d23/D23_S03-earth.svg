@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350">
+<defs><style>@font-face{font-family:Lora;src:url(file:///usr/share/fonts/truetype/sand-box/google/Lora/Lora-VariableFont_wght.ttf);}</style></defs>
+<rect width="1080" height="1350" fill="#2F3A2B"/>
+<rect x="60" y="60" width="960" height="1230" fill="none" stroke="#B5A67A" stroke-width="3"/>
+<line x1="440" y1="320" x2="640" y2="320" stroke="#B5A67A" stroke-width="2"/>
+<text x="540" y="470" text-anchor="middle" font-family="Lora" font-size="58" fill="#EDE6D3">Hitting back lets</text><text x="540" y="558" text-anchor="middle" font-family="Lora" font-size="58" fill="#EDE6D3">them pick your</text><text x="540" y="646" text-anchor="middle" font-family="Lora" font-size="58" fill="#EDE6D3">next move.</text>
+<line x1="440" y1="754" x2="640" y2="754" stroke="#B5A67A" stroke-width="2"/>
+<text x="540" y="834" text-anchor="middle" font-family="Lora" font-style="italic" font-size="34" fill="#C9B98F">You hand them the pen.</text>
+<text x="540" y="1210" text-anchor="middle" font-family="Lora" font-size="30" fill="#8C8C7A">@thestoic5674</text>
+</svg>

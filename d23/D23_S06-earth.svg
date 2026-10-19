@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350">
+<defs><style>@font-face{font-family:Lora;src:url(file:///usr/share/fonts/truetype/sand-box/google/Lora/Lora-VariableFont_wght.ttf);}</style></defs>
+<rect width="1080" height="1350" fill="#3A4034"/>
+<rect x="60" y="60" width="960" height="1230" fill="none" stroke="#C4B59A" stroke-width="3"/>
+<line x1="440" y1="320" x2="640" y2="320" stroke="#C4B59A" stroke-width="2"/>
+<text x="540" y="470" text-anchor="middle" font-family="Lora" font-size="58" fill="#EDE6D3">Keep the pen.</text><text x="540" y="558" text-anchor="middle" font-family="Lora" font-size="58" fill="#EDE6D3">Stay who you are.</text>
+<line x1="440" y1="666" x2="640" y2="666" stroke="#C4B59A" stroke-width="2"/>
+<text x="540" y="746" text-anchor="middle" font-family="Lora" font-style="italic" font-size="34" fill="#C9B98F">Follow @thestoic5674</text>
+<text x="540" y="1210" text-anchor="middle" font-family="Lora" font-size="30" fill="#8C8C7A">@thestoic5674</text>
+</svg>
